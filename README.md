@@ -1,9 +1,9 @@
 
-# qw
+# README Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-we
+This project provides a query/response to develop readme files that follow a specific template.
 
 ## Table of Contents
 1. [Description](#description)
@@ -13,13 +13,13 @@ we
 5. [Contributing](#contributing)
 6. [Testing](#testing)
 7. [License](#License)
-8. [Contact](#Contact)s
+8. [Contact](#Questions)
 
 ## Dependencies
-er
+nodejs is required, git is optional
 
 ## Installation
-rt
+https://drive.google.com/file/d/11FRxm5KgI9y14FEyxY_EpyxgwCcZrX6-/view
 
 ## Usage
 undefined
@@ -28,11 +28,11 @@ undefined
 The MIT License
 
 ## Contributing
-uy
+Contact me directly on the email adress below.
 
 ## Testing
-i
+Unit testing is not implemented. Manual testing only.
 
 ## Questions
-Created by lkpo, contact me directly pok with any questions.
+Created by macoovacany, contact me directly macoovacany@hotmail.com with any questions.
 
