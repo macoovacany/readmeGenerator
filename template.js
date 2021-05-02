@@ -18,7 +18,7 @@ ${answers.description}
 5. [Contributing](#contributing)
 6. [Testing](#testing)
 7. [License](#License)
-8. [Contact](#Contact)s
+8. [Contact](#Questions)
 
 ## Dependencies
 ${answers.dependencies}
