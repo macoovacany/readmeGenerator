@@ -22,7 +22,7 @@ nodejs is required, git is optional
 https://drive.google.com/file/d/11FRxm5KgI9y14FEyxY_EpyxgwCcZrX6-/view
 
 ## Usage
-undefined
+https://drive.google.com/file/d/1IjEBS91jl4EHzga8pq_tSHGG5njig7A0/view
 
 ## License
 The MIT License
